@@ -1,5 +1,5 @@
 # Overview
-In this project, various machine learning algorithms and data analysis techniques were used to predict diabetes types. The dataset was obtained from Apollo hospital. The project involved data preprocessing, exploratory data analysis (EDA), feature selection, model training, and hyperparameter tuning.
+In this project, various machine learning algorithms and data analysis techniques were used to predict diabetes types. The dataset was obtained from Apollo hospital. The project involved data preprocessing, exploratory data analysis (EDA), feature selection, model training, and hyperparameter tuning. Then, I deployed the final model using the Streamlit cloud platform. The web app can be found here https://gunaxprofessional-end-to-end-diabetes-mell-streamlit-app-p243sr.streamlit.app/ .
 
 # Data Analysis Techniques
 + **Data Preprocessing:** The data was cleaned, and missing values were imputed using different techniques.
@@ -7,7 +7,7 @@ In this project, various machine learning algorithms and data analysis technique
 + **Feature Selection:** Different feature selection techniques were used to identify the most important features for model training.
 
 **Machine Learning Techniques**
-+ **Machine Learning Algorithms:** A total of various machine learning algorithms were compared to identify the best one for the task of predicting diabetes types. The algorithms included Logistic Regression, K-Nearest Neighbor, Decision Tree, Random Forest, XGBoost, and Neural Networks.
++ **Machine Learning Algorithms:** A total of various machine learning algorithms were compared to identify the best one for the task of predicting diabetes types. The algorithms included Logistic Regression, K-Nearest Neighbor, Decision Tree, Random Forest, and XGBoost.
 + **Hyperparameter Tuning:** GridSearchCV was used to tune the hyperparameters of the selected machine learning algorithm.
 
 **Results**
